@@ -14,11 +14,11 @@ Step 5: Once you have unzipped, open up the folder in the terminal (if Mac), or 
 
 Step 6: Run the following commands in the terminal/command to install the needed packages:
 
-  npm install express
-  npm install express-session
-  npm install body-parser
-  npm install path
+  npm install express <br>
+  npm install express-session <br>
+  npm install body-parser <br>
+  npm install path <br>
   
-Step 7: Once the correct packages are installed, run the command node app.js. This will start up the node server.
+Step 7: Once the correct packages are installed, run the command <strong>node app.js</strong>. This will start up the node server.
 
 Step 8: While the server is running, go to http://localhost:8080/ to view the schools on the map
